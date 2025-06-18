@@ -15,6 +15,7 @@ plate/
 wan/
 label_imgs/
 pretrained_model/
+onnxruntime-linux-x64-gpu-1.22.0
 cfg1/
 test_imgs/
 weixian/
